@@ -1,7 +1,0 @@
-[Pedido do Python] ──> Envia pesquisa para a API do Deezer
-                                │
-[Resposta da API] <── Retorna dados da música + Link do MP3
-                                │
-[Download de Bytes] ──> Transforma o áudio em dados na Memória (RAM)
-                                │
-[Pygame Mixer]    ──> Carrega os bytes e toca o som nas colunas
